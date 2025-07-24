@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Gupta
-- 👀 I’m interested in Java and DSA
+- 👀 I’m interested in Java and SpringBoot
 - 🌱 currently learning Backend Development
 - 💞️ I’m looking to collaborate on JAVA PROJECT
 - 📫 How to reach me: LinkedIn --> https://www.linkedin.com/in/shivam-gupta-436811254
